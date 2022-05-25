@@ -1,8 +1,0 @@
-﻿Name,Cluster,Drop size,-,Delievery,,Total,Sample size,% out of total,ADAMA -ZEWAY-CHERO,DEREDAWA - JIGJIGA,EAST ADDIS,HOSSANA - SODO - JINKA,NORTH - CENTRAL ADDIS,SHASHEMNE - HAWASSA - NEGELE,SOUTH ADDIS,WEST ADDIS
-0,0,Min,Max,Min,Max,0,0,0,,,,,,,,
-Fast moving,1,-,18,3,4,345,20,5%,46,5,20,31,44,131,25,43
-Stars,2,1,6,1,3,67,5,1%,13,4,14,2,7,2,10,15
-Stockiests,3,15,60,0,1,3,1,0%,2,0,0,0,0,0,0,1
-Surviving ,4,3,15,0.5,2,368,24,5%,90,5,83,2,38,22,49,79
-Struggling to survive ,5,0,12,0,2,6304,50,89%,1187,24,1174,93,855,368,1144,1447
-Total,0,0,0,0,0,7087,100,100%,,,,,,,,
